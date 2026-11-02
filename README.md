@@ -14,14 +14,14 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 </h2>
 
-I'm m1ke, a Hacker & Security Researcher. I'm on my way to becoming a **Cybersecurity Specialists** / **Bug Hunter**. <br>
+I'm Caz, a Hacker & Security Researcher. I'm on my way to becoming a **Cybersecurity Specialists** / **Bug Hunter**. <br>
 **Technology** has always fascinated me, and I've immersed myself in the captivating world of cyber security. malwares, viruses, bug hunting, I hope I'll become a Cybersecurity Specialists then I can protect company assests and help community.
 
 
 <details>
   <summary>More about me</summary>
 
-- **Name**: m1ke
+- **Name**: Caz
 - **From**: Peru
 - **Bug Hunter** | **Security Researcher** | **Cybersecurity Analyst**
 - I have experience in cracking, reverse engineering, bug hunting, social engineering, spy.
