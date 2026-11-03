@@ -27,7 +27,7 @@ I'm Caz, a Hacker & Security Researcher. I'm on my way to becoming a **Cybersecu
 - I have experience in cracking, reverse engineering, bug hunting, social engineering, spy.
 - Improving knowledge in **Website Vulnerabilities**
 - I’m currently learning **everything** 
-- Reach me out at **zm1c@proton.me**
+- Reach me out at **caz0xf@proton.me**
 
 </details>
 <br>
@@ -84,8 +84,8 @@ I'm Caz, a Hacker & Security Researcher. I'm on my way to becoming a **Cybersecu
 <h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
 <img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
  
-  [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=zm1c&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/zm1c/github-readme-stats)
-  [![GitHub Streak](https://streak-stats.demolab.com?user=zm1c&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
- <p align="left"><a href="https://github.com/zm1c/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zm1c&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450"" /></a></p>
+  [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=caz0xf&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/caz0xf/github-readme-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=caz0xf&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
+ <p align="left"><a href="https://github.com/caz0xf/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caz0xf&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450"" /></a></p>
 
 <br><br>
